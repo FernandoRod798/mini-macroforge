@@ -1,6 +1,6 @@
 import type { Client, Exercise, Meal } from '@/types/client'
 
-const API_URL = 'http://127.0.0.1:5000'
+const API_URL = 'https://mini-macroforge-production.up.railway.app'
 
 // Omit<> es un utilitario de TypeScript que crea un tipo nuevo
 // basado en uno existente pero removiendo campos específicos.
