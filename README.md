@@ -4,7 +4,8 @@ Panel web para coaches de fitness. Permite registrar clientes, calcular sus requ
 
 ## Demo
 
-> Deploy en progreso — link disponible próximamente
+- Frontend: https://mini-macroforge.vercel.app
+- Backend: https://mini-macroforge-production.up.railway.app
 
 ## Features
 
